@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\obj\Debug\net6.0\CommandDesignDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\obj\Debug\net6.0\CommandDesignDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\obj\Debug\net6.0\CommandDesignDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\obj\Debug\net6.0\CommandDesignDemo.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\obj\Debug\net6.0\CommandDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\bin\Debug\net6.0\CommandDesignDemo.exe
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\bin\Debug\net6.0\CommandDesignDemo.deps.json
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\bin\Debug\net6.0\CommandDesignDemo.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\bin\Debug\net6.0\CommandDesignDemo.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\bin\Debug\net6.0\CommandDesignDemo.pdb
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\obj\Debug\net6.0\CommandDesignDemo.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\obj\Debug\net6.0\refint\CommandDesignDemo.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\obj\Debug\net6.0\CommandDesignDemo.pdb
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\obj\Debug\net6.0\CommandDesignDemo.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\assignment 18\CommandDesignDemo\CommandDesignDemo\obj\Debug\net6.0\ref\CommandDesignDemo.dll
